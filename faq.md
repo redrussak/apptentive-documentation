@@ -111,7 +111,7 @@
     I don’t get this, stuck in Sample & Instructions, also where is the SDK?
   </dt>
   <dd>
-    Can you tell us a bit more about what happened when you tried to create an app? In general, once you create an app (either manually or by finding it via search) you can select that app in the upper lefthand corner and view the integration instructions under "Settings". If you can tell us a bit more about your experience we can help you out. Thanks again for reaching out, I hope we can help solve this problem for you.
+  In general, once you create an app (either manually or by finding it via search) you can select that app in the upper lefthand corner and view the integration instructions under "Settings".
   </dd>
 </dl>
 
@@ -381,7 +381,7 @@
     Can we take a screen shot of the last screen the user viewed just before giving feedback?
   </dt>
   <dd>
-    How do others best use the attached screenshot feature? If the feedback button is implemented on multiple screens of the app, you can set the screenshot feature to capture the screen where the consumer hits the button. If it's only on one or 2 screens, attaching the "last screen" gets much tougher and would require you to pass along some historical data and snap screenshots along the way. We haven't seen anyone implement it this way as of yet, but if this is something you are interested in we could probably schedule a call to chat about it a bit more.
+   ?
   </dd>
 </dl>
 
